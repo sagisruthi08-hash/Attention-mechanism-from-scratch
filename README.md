@@ -12,3 +12,5 @@ Scale Scores: The attention scores are divided by the square root of the key dim
 Softmax: The scaled scores are converted into attention weights (probabilities) using the Softmax function.
 
 Final Attention Output: The attention weights are multiplied with the Value vectors to produce the final context-aware output.
+<img width="617" height="792" alt="Screenshot 2026-07-09 170812" src="https://github.com/user-attachments/assets/d37ee659-c72e-4ea2-b85a-5597693d01c8" />
+
